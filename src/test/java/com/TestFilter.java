@@ -38,7 +38,7 @@ public class TestFilter {
         int ageofEmp, max=40, min=20;
 
         Employee employeeOne = new Employee("Mihan", "ABC", 30, oneDayBefore);
-        Employee employeeTwo = new Employee("attune", "ABC", 20, oneDayBefore);
+        Employee employeeTwo = new Employee("kasun", "ABC", 20, oneDayBefore);
         Employee employeeThr = new Employee("cricket", "sd", 10, null);
         Employee employeeFou = new Employee("sun", "ABC", 30, oneday);
 
